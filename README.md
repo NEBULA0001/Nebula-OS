@@ -6,4 +6,5 @@ No AI is being involved in anyway other then a quick research and a tool for bes
 
 im still doing all myself its more of a tutor instead of just reading documentation.
 
+Im using Qemu to test it and oracle virtual box
 
