@@ -14,7 +14,7 @@ print:
 	jmp $
 
 hello:
-	db "Nebula OS", 0
+	db "Nebula OS Bootloader Successfully Compiled", 0
 
 times 510 - ($ - $$) db 0
 dw 0xAA55

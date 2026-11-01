@@ -22,5 +22,6 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include=".gitignore" />
+    <None Include="run.ps1" />
   </ItemGroup>
 </Project>
